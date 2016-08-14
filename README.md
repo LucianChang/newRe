@@ -1,4 +1,2 @@
 # newRe
-**vvxcxcv**
-sfdsf
-fff
+study to use git
